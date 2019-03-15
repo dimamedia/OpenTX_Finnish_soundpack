@@ -9,4 +9,4 @@ Avaa [suomennoksen julkinen työtiedosto](https://docs.google.com/spreadsheets/d
 Äänipaketti on tallennettu */SOUNDS/en* hakemistoon, sillä OpenTX ei tue Suomi-vaihtoehtoa.<br />
 
 
-Viimeisin generointi: **2019-03-15**
+Viimeisin generointi: **[2019-03-15](https://github.com/dimamedia/OpenTX_Finnish_soundpack/blob/master/OpenTX_Finnish_soundpack_20190315.zip?raw=true)**
