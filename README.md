@@ -6,7 +6,13 @@ Käännökset pohjautuvat [Voice and Sound Pack Generator](https://docs.google.c
 
 Älä tee päivityksiä suoraan */SOUNDS/* hakemistoon, sillä se ylikirjoitetaan generoinnin yhteydessä.
 Selvitä täydennykset ja korjaukset *OpenTX Finnish soundpack source.csv* tiedostossa, jonka perusteella generoidaan uusi äänipaketti.
-Ehdota täydennykset, päivitykset ja korjaukset [Issues osiossa]( Issues 0).
+Ehdota täydennykset, päivitykset ja korjaukset [Issues osiossa](https://github.com/dimamedia/OpenTX_Finnish_soundpack/issues).
+
+Tai ota yhteyttä:
+Email: web miumau dima piste f
+fpvfinland.slack.com: DiAleksi
+multikopterit.net: DiAleksi
+lennokit.net: DiAleksi
 
 Äänipaketti on tallennettu englanninkieliseen */SOUNDS/en* hakemistoon, sillä OpenTX:ssa ei ole Suomi-vaihtoehtoa<br />
 
