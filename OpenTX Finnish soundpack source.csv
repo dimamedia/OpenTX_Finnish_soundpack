@@ -1,0 +1,595 @@
+Kansio,Tiedosto,Englanniksi,Suomeksi
+System,,,
+en/SYSTEM,0,0,0
+en/SYSTEM,1,1,1
+en/SYSTEM,2,2,2
+en/SYSTEM,3,3,3
+en/SYSTEM,4,4,4
+en/SYSTEM,5,5,5
+en/SYSTEM,6,6,6
+en/SYSTEM,7,7,7
+en/SYSTEM,8,8,8
+en/SYSTEM,9,9,9
+en/SYSTEM,10,10,10
+en/SYSTEM,11,11,11
+en/SYSTEM,12,12,12
+en/SYSTEM,13,13,13
+en/SYSTEM,14,14,14
+en/SYSTEM,15,15,15
+en/SYSTEM,16,16,16
+en/SYSTEM,17,17,17
+en/SYSTEM,18,18,18
+en/SYSTEM,19,19,19
+en/SYSTEM,20,20,20
+en/SYSTEM,21,21,21
+en/SYSTEM,22,22,22
+en/SYSTEM,23,23,23
+en/SYSTEM,24,24,24
+en/SYSTEM,25,25,25
+en/SYSTEM,26,26,26
+en/SYSTEM,27,27,27
+en/SYSTEM,28,28,28
+en/SYSTEM,29,29,29
+en/SYSTEM,30,30,30
+en/SYSTEM,31,31,31
+en/SYSTEM,32,32,32
+en/SYSTEM,33,33,33
+en/SYSTEM,34,34,34
+en/SYSTEM,35,35,35
+en/SYSTEM,36,36,36
+en/SYSTEM,37,37,37
+en/SYSTEM,38,38,38
+en/SYSTEM,39,39,39
+en/SYSTEM,40,40,40
+en/SYSTEM,41,41,41
+en/SYSTEM,42,42,42
+en/SYSTEM,43,43,43
+en/SYSTEM,44,44,44
+en/SYSTEM,45,45,45
+en/SYSTEM,46,46,46
+en/SYSTEM,47,47,47
+en/SYSTEM,48,48,48
+en/SYSTEM,49,49,49
+en/SYSTEM,50,50,50
+en/SYSTEM,51,51,51
+en/SYSTEM,52,52,52
+en/SYSTEM,53,53,53
+en/SYSTEM,54,54,54
+en/SYSTEM,55,55,55
+en/SYSTEM,56,56,56
+en/SYSTEM,57,57,57
+en/SYSTEM,58,58,58
+en/SYSTEM,59,59,59
+en/SYSTEM,60,60,60
+en/SYSTEM,61,61,61
+en/SYSTEM,62,62,62
+en/SYSTEM,63,63,63
+en/SYSTEM,64,64,64
+en/SYSTEM,65,65,65
+en/SYSTEM,66,66,66
+en/SYSTEM,67,67,67
+en/SYSTEM,68,68,68
+en/SYSTEM,69,69,69
+en/SYSTEM,70,70,70
+en/SYSTEM,71,71,71
+en/SYSTEM,72,72,72
+en/SYSTEM,73,73,73
+en/SYSTEM,74,74,74
+en/SYSTEM,75,75,75
+en/SYSTEM,76,76,76
+en/SYSTEM,77,77,77
+en/SYSTEM,78,78,78
+en/SYSTEM,79,79,79
+en/SYSTEM,80,80,80
+en/SYSTEM,81,81,81
+en/SYSTEM,82,82,82
+en/SYSTEM,83,83,83
+en/SYSTEM,84,84,84
+en/SYSTEM,85,85,85
+en/SYSTEM,86,86,86
+en/SYSTEM,87,87,87
+en/SYSTEM,88,88,88
+en/SYSTEM,89,89,89
+en/SYSTEM,90,90,90
+en/SYSTEM,91,91,91
+en/SYSTEM,92,92,92
+en/SYSTEM,93,93,93
+en/SYSTEM,94,94,94
+en/SYSTEM,95,95,95
+en/SYSTEM,96,96,96
+en/SYSTEM,97,97,97
+en/SYSTEM,98,98,98
+en/SYSTEM,99,99,99
+en/SYSTEM,100,100,100
+en/SYSTEM,101,200,200
+en/SYSTEM,102,300,300
+en/SYSTEM,103,400,400
+en/SYSTEM,104,500,500
+en/SYSTEM,105,600,600
+en/SYSTEM,106,700,700
+en/SYSTEM,107,800,800
+en/SYSTEM,108,900,900
+en/SYSTEM,109,thousand,tuhatta
+en/SYSTEM,110,and,ja
+en/SYSTEM,111,minus,miinus
+en/SYSTEM,112,point,piste
+en/SYSTEM,volt0,volt,voltti
+en/SYSTEM,volt1,volts,volttia
+en/SYSTEM,amp0,amp,ampeeri
+en/SYSTEM,amp1,amps,ampeeria
+en/SYSTEM,mamp0,milliamp,milliampeeri
+en/SYSTEM,mamp1,milliamps,milliampeeria
+en/SYSTEM,knot0,knot,solmu
+en/SYSTEM,knot1,knots,solmua
+en/SYSTEM,mps0,meter per second,metri sekunnissa
+en/SYSTEM,mps1,meters per second,metriä sekunnissa
+en/SYSTEM,fps0,foot per second,jalka sekunnissa
+en/SYSTEM,fps1,feet per second,jalkaa sekunnissa
+en/SYSTEM,kph0,kilometer per hour,kilometri tunnissa
+en/SYSTEM,kph1,kilometers per hour,kilometriä tunnissa
+en/SYSTEM,mph0,mile per hour,maili tunnissa
+en/SYSTEM,mph1,miles per hour,mailia tunnissa
+en/SYSTEM,meter0,meter,metri
+en/SYSTEM,meter1,meters,metriä
+en/SYSTEM,foot0,foot,jalka
+en/SYSTEM,foot1,feet,jalkaa
+en/SYSTEM,celsius0,degree celsius,aste celsiusta
+en/SYSTEM,celsius1,degrees celsius,astetta celsiusta
+en/SYSTEM,fahr0,degree fahrenheit,aste fahrenheitia
+en/SYSTEM,fahr1,degrees fahrenheit,astetta fahrenheitia
+en/SYSTEM,percent0,percent,prosentti
+en/SYSTEM,percent1,percent,prosenttia
+en/SYSTEM,mamph0,milliamp-hour,milliampeeritunti
+en/SYSTEM,mamph1,milliamp-hours,milliampeeritunti
+en/SYSTEM,watt0,watt,watti
+en/SYSTEM,watt1,watts,wattia
+en/SYSTEM,mwatt0,milli-watt,milliwatti
+en/SYSTEM,mwatt1,milli-watts,milliwattia
+en/SYSTEM,db0,D B,D.B
+en/SYSTEM,db1,D B,D.B
+en/SYSTEM,rpm0,r p m,kierros minuutissa
+en/SYSTEM,rpm1,r p m,kierrosta minuuttissa
+en/SYSTEM,g0,g,G
+en/SYSTEM,g1,g,G
+en/SYSTEM,degree0,degree,aste
+en/SYSTEM,degree1,degrees,astetta
+en/SYSTEM,rad0,radian,radian
+en/SYSTEM,rad1,radians,radiaania
+en/SYSTEM,ml0,milliliter,millilitra
+en/SYSTEM,ml1,milliliters,millilitraa
+en/SYSTEM,founce0,fluid ounce,unssi
+en/SYSTEM,founce1,fluid ounces,unssia
+en/SYSTEM,hour0,hour,tunti
+en/SYSTEM,hour1,hours,tuntia
+en/SYSTEM,minute0,minute,minuutti
+en/SYSTEM,minute1,minutes,minuuttia
+en/SYSTEM,second0,second,sekunti
+en/SYSTEM,second1,seconds,sekuntia
+en/SYSTEM,167,point zero,pilkku 0
+en/SYSTEM,168,point one,pilkku 1
+en/SYSTEM,169,point two,pilkku 2
+en/SYSTEM,170,point three,pilkku 3
+en/SYSTEM,171,point four,pilkku 4
+en/SYSTEM,172,point five,pilkku 5
+en/SYSTEM,173,point six,pilkku 6
+en/SYSTEM,174,point seven,pilkku 7
+en/SYSTEM,175,point eight,pilkku 8
+en/SYSTEM,176,point nine,pilkku 9
+en/SYSTEM,midtrim,trim center,trimmi keskellä
+en/SYSTEM,maxtrim,maximum trim reached,trimmi maksimissa
+en/SYSTEM,mintrim,minimum trim reached,trimmi minimissä
+en/SYSTEM,timovr1,timer 1 elapsed,ajastin yksi lopussa
+en/SYSTEM,timovr2,timer 2 elapsed,ajastin kaksi lopussa
+en/SYSTEM,timovr3,timer 3 elapsed,ajastin kolme lopussa
+en/SYSTEM,lowbatt,transmitter battery low,lähettimen akku lopussa
+en/SYSTEM,inactiv,inactivity alarm,toimeettomuushälytys
+en/SYSTEM,thralert,throttle warning,kaasuvaroitus
+en/SYSTEM,swalert,switch warning,kytkinvaroitus
+en/SYSTEM,eebad,bad eeprom,virheellinen muistitallenne
+en/SYSTEM,hello,Welcome to open tea ex!,tervetuloa oupen tee axään
+en/SYSTEM,rssi_org,RF signal.. low,R.F-signaali heikko
+en/SYSTEM,rssi_red,RF signal.. critical,R.F-signaali kriittinen
+en/SYSTEM,swr_red,radio antenna defective,Viallinen antenni
+en/SYSTEM,telemko,telemetry lost,Telemetria menetetty
+en/SYSTEM,telemok,telemetry recovered,Telemetria palautettu
+en/SYSTEM,trainko,trainer signal lost,Trainer signaali menetetty
+en/SYSTEM,trainok,trainer signal recovered,Trainer signaali palautui
+en/SYSTEM,sensorko,sensor lost,kadonnut sensori
+en/SYSTEM,servoko,servo overload,servon ylikuorma
+en/SYSTEM,rxko,power overload,ylikuorma
+en/SYSTEM,modelpwr,receiver still connected,vastaanotin yhä päällä
+en,gearup,gear!.. up!,
+en,geardn,gear!.. down!,
+en,flapup,flaps!.. up!,
+en,flapdn,flaps!.. down!,
+en,splrup,spoiler!.. up!,
+en,splrdn,spoiler!.. down!,
+en,trnon,trainer!.. on!,
+en,trnoff,trainer!.. off!,
+en,engoff,engine!.. off!,
+en,tohigh,too. high!,
+en,tolow,too. low!,
+en,lowbat,low. battery!,
+en,crowon,crow!.. on!,
+en,crowof,crow!.. off!,
+en,siglow,rf. signal!.. low!,
+en,sigcrt,rf. signal!.. critical!,
+en,spdmod,high. speed. mode!.. active,
+en,thmmod,thermal. mode!.. on,
+en,nrmmod,normal. mode!.. on,
+en,lnding,landing. mode!.. on,
+en,acro,acro. mode!.. on,
+en,fm-1,flight mode one,lentomoodi 1
+en,fm-2,flight mode two,lentomoodi 2
+en,fm-3,flight mode three,lentomoodi 3
+en,fm-4,flight mode four,lentomoodi 4
+en,fm-5,flight mode five,lentomoodi 5
+en,fm-6,flight mode six,lentomoodi 6
+en,fm-7,flight mode seven,lentomoodi 7
+en,fm-8,flight mode eight,lentomoodi 8
+en,vrion,vario!.. on,variometri päällä
+en,vrioff,vario!.. off,variometri pois päältä
+en,fm-pwr,flight mode power,lentomoodi teho
+en,fm-lnd,flight mode land,lentomoodi lasku
+en,fm-flt,flight mode float,lentomoodi kellunta
+en,fm-spd,flight mode speed,lentomoodi vauhti
+en,fm-fst,flight mode fast,lentomoodi nopea
+en,fm-nrm,flight mode normal,lentomoodi normaali
+en,fm-crs,flight mode cruise,lentomoodi kruisinki
+en,fm-acr,flight mode acro,lentomoodi akro
+en,fm-rce,flight mode race,lentomoodi ralli
+en,fm-lch,flight mode launch,lentomoodi laukaisu
+en,fm-png,flight mode ping,lentomoodi ping
+en,fm-thm,flight mode thermal,lentomoodi termiikki
+en,fm-thl,flight mode thermal left,lentomoodi termiikki vasempaan
+en,fm-thr,flight mode thermal right,lentomoodi termiikki oikeaan
+Gereral,,,
+en,opentx,OpenTx,Open tee äx
+en,intmodl,Internal module,Sisäinen modulli
+en,extmodl,External module,Ulkoinen moduli
+en,deplyd,deployed,käytössä
+en,good,good,hyvä
+en,bad,bad,huono
+en,ugly,ugly,sekava
+en,situ,situation,tilanne
+en,pos,positive,positiivinen
+en,neg,negative,negatiivinen
+en,enabled,enabled,päällä
+en,disabled,disabled,sammutettu
+en,on,on,on
+en,off,off,off
+en,sitnorm,situation normal,normaali tilanne
+en,stblon,stabilization on,stabilointi päällä
+en,stbloff,stabilization off,stabilointi sammutettu
+en,takoff,Takeoff,lentoonlähtö
+en,cplton,co-pilot on,apukuski päällä
+en,cpltoff,co-pilot off,apukuski päältä
+en,race,race,kilpailu
+en,racemd,racemode,kisamoodi
+en,racing,racing,ralli
+en,actv,active,aktiivinen
+en,actvd,activated,aktivoitu
+en,dactvd,deactivated,sammutettu
+en,eng,engaged,kytketty
+en,dseng,disengage,irroitettu
+en,whtvr,whatever,mikä tahansa
+en,fxdwng,fixed wing,kiinteä siipi
+en,sprtsfl,sports flying,urheilulento
+en,pylnrc,pylon racing,pyloniralli
+en,seapl,Seaplane,
+en,vintg,Vintage,
+en,warbrd,warbird,sotalintu
+en,sim,simulator,simulaattori
+en,sclmod,scale model,pienoismalli
+en,bklght,back light on,taustavalo
+en,stopped,stopped,pysäytetty
+en,reset,reset,nollaa
+en,danger,Danger!,Vaara!
+en,buzzer,Buzzer,summeri
+en,buzzon,Buzzer On,summeri päällä
+en,buzzoff,Buzzer Off,summeri sammutettu
+en,timron,Timer On,Ajastin käynnissä
+en,timroff,Timer Off,Ajastin pysäytetty
+en,timrone,Timer One,Ajastin yksi
+en,timrtwo,Timer Two,Ajastin kaksi
+en,timlnd,It is time for you to land,Aika laskeutua
+en,timlnd2,You really should think about landing,Laskeudu heti
+en,cmnglnd,Coming in for landing,Saavutaan laskuun
+en,deadstk,Dead Stick!,Ei moottoritehoa!
+en,timup,time up,
+en,timisup,time is up,
+en,rxbatlow,receiver battery low,vastaanottimen akku lopussa
+en,rxbatcrt,receiver battery critical,vastaanottimen akku kriittinen
+en,trn,trainer,Oppilas
+en,trnint,instructor,Opettaja
+en,trng,training,koulutus
+en,trngintg,instructing,opastus
+en,trninst,instructors plane,Opettajan kone
+en,trnstd,students plane,Oppilaan kone
+en,lights,lights,valot
+en,lightson,lights on,Valot päällä
+en,lightsof,lights off,valot pois
+Telemetry,,,
+en,lwstcell,Lowest cell...,Alin kennojännite
+en,battcns,Battery consumption...,Akun kapasiteetti
+en,packvlt,Pack voltage...,Akkujännite
+en,currdrw,Current draw...,Virrankulutus
+en,pwrrd,Power reading...,teholukema
+Equipment,,,
+en,batcrit,battery critical,Akun varaus kriittinen
+en,batlow,low battery,Akun varaus vähäinen
+en,geardn,gear down,laskutelineet alas
+en,gearup,gear up,laskutelineet ylös
+en,camcentr,camera centered,Kamera keskitetty
+en,camfix,camera fixed,Kamera lukittu
+en,camman,camera manual,Kamera manuaalinen
+en,camon,camera on,Kamera päällä
+en,camoff,camera off,Kamera sammutettu
+en,gmblact,gimbal active,gimbal aktiivinen
+en,gmbl,gimbal on,gimbal.. on
+en,gmblon,gimbal on,gimbal.. on
+en,gmbloff,gimbal off,gimbal.. off
+en,gps,GPS,GPS
+en,bomb,bomb,pommi
+en,bombrel,bombs released,pommi tiputettu
+en,bombawy,bombs away,pommi poistunut
+en,bombby,bombbay doors,pommiluukku
+en,bombbyop,bombbay doors open,pommiluukku auki
+en,bombbycl,bombbay doors closed,pommiluukku kiinni
+en,cargo,cargo door,rahtitilan ovi
+en,cargoopn,cargo door open,rahtitilan ovi auki
+en,cargocld,cargo door closed,rahtitilan ovi kiinni
+en,smokeon,smoke on,savu päällä
+en,smokeoff,smoke off,savu sammutettu
+en,pchtdep,parachute deployed,laskuvarjo lähetetty
+en,brmtron,barometer on,barometri.. on
+en,brmtrof,barometer off,barometri.. off
+en,mgohm,magnet O meter,
+en,mgohmon,magnet O meter on,
+en,mgohmof,magnet O meter off,
+en,mgmtr,magnetometer,
+en,mgmtron,magnetometer on,
+en,mgmtrof,magnetometer off,
+en,cmpss,compass,kompassi
+en,cmpsson,compass on,kompassi.. on
+en,cmpssof,compass off,kompassi.. off
+Flaps,,,
+en,flapsup,flaps up,
+en,flapsdn,flaps down,
+en,flaps1,flaps One,
+en,flaps2,flaps Two,
+en,flapsdep,flaps deployed,
+en,flaphlf,flaps half,
+en,flapfll,flaps full,
+en,flpnorm,flaps normal,
+en,flpail,flaps synced with ailerons,
+en,flaps,flaps,
+Ailerons,,,
+en,srf_ail,aileron,
+en,srf_ails,ailerons,
+en,ailhgh,aileron high,
+en,ailmed,aileron medium,
+en,aillow,aileron low,
+Elevator,,,
+en,srf_elv,elevator,
+en,elehigh,elevator high,
+en,elemed,elevator medium,
+en,elelow,elevator low,
+Rudder,,,
+en,srf_rud,rudder,
+en,rudhgh,rudder high,
+en,rudmed,rudder medium,
+en,rudlow,rudder low,
+Throttle,,,
+en,srf_thr,throttle,kaasu
+en,thract,throttle active,kaasu aktiivinen
+en,thrhold,throttle hold,kaasun pito
+en,thrrel,throttle release,kaasun vapautus
+en,idlup,idle up,tyhjäkäynnin nosto
+en,idlup1,idle up 1,tyhjäkäynnin nosto 1
+en,idlup2,idle up 2,tyhjäkäynnin nosto 2
+en,idldwn,idle down,tyhjäkäynti alas
+en,ignact,ignition active,sytytysvirta aktiivinen
+en,ignon,ignition on,sytytysvirta.. on
+en,ignoff,ignition off,sytytysvirta.. off
+en,thrdis,throttle disabled,
+en,engarm,engine armed,varmistamaton
+en,engsarm,engines armed,varmistamaton
+en,engdisa,engine disarmed,varmistettu
+en,engsdisa,engines disarmed,varmistettu
+en,engdis,engine disabled,
+en,engsdis,engines disabled,
+en,engon,engine on,moottori käynnissä
+en,engoff,engine off,moottori sammutettu
+en,engson,engines on,moottorit käynnissä
+en,engsoff,engines off,moottorit sammutettu
+Rates,,,
+en,lowrates,low rates,alhaiset ratet
+en,rateslow,low rates,alhaiset ratet
+en,midrates,middle rates,keskiratet
+en,ratesmid,middle rates,keskiratet
+en,hirates,high rates,korkeat ratet
+en,rateshi,high rates,korkeat ratet
+en,ratesnrm,normal rates,normaalit ratet
+en,ratesstd,standard rates,vakioratet
+en,3drtson,3D rates on,3D-ratet.. on
+en,3drtsoff,3D rates off,3D-ratet.. off
+en,3drtsact,3D rates active,3D-ratet.. aktivoitu
+en,expoon,expo on,epälineaarisuus päällä
+en,expooff,expo off,epälineaarisuus pois
+Modes,,,
+en,fs,failsafe,turvatoiminto
+en,fson,failsafe on,turvatoiminto päällä
+en,fsoff,failsafe off,turvatoiminto pois päältä
+en,mode,mode,moodi
+en,mdon,mode on,moodi päällä
+en,mdoff,mode off,moodi pois päältä
+en,mdact,mode active,moodi aktivoitu
+en,ftmd,flight mode,lentomoodi
+en,ftmd1,flight mode one,lentomoodi 1
+en,ftmd2,flight mode two,lentomoodi 2
+en,ftmd3,flight mode three,lentomoodi 3
+en,ftmd4,flight mode four,lentomoodi 4
+en,ftmd5,flight mode five,lentomoodi 5
+en,ftmd6,flight mode six,lentomoodi 6
+en,ftmd7,flight mode seven,lentomoodi 7
+en,ftmd8,flight mode eight,lentomoodi 8
+en,ftmd9,flight mode nine,lentomoodi 9
+en,mode0,mode zero,moodi 0
+en,mode1,mode one,moodi 1
+en,mode2,mode two,moodi 2
+en,mode3,mode three,moodi 3
+en,mode4,mode four,moodi 4
+en,mode5,mode five,moodi 5
+en,mode6,mode six,moodi 6
+en,mode7,mode seven,moodi 7
+en,mode8,mode eight,moodi 8
+en,mode9,mode nine,moodi 9
+en,stnton,stunt mode on,stuntti moodi.. päällä
+en,stntoff,stunt mode off,stuntti moodi.. pois päältä
+en,stntact,stunt mode active,stuntti moodi.. aktivoitu
+en,mdtrng,training mode,
+en,mdtrngin,instructing mode,
+en,mdnrmm,normal mode,
+en,mdstable,stabilisation mode,
+en,mdstab,stable mode,
+en,mdautolv,auto level mode,
+en,mdhvr,hover mode,
+en,mdknfedg,knife edge mode,
+en,mdthrml,thermal mode,
+en,mdlndg,landing mode,
+en,mdspeed,speed mode,
+en,mdlnch,launch mode,
+en,mdcruz,cruise mode,
+en,mdloitr,loiter mode,
+en,mdzoom,zoom mode,
+en,mdseek,seek mode,
+en,mdclmb,climbing mode,
+en,mdgps,gps mode,
+en,mdatt,attitude mode,
+en,mdratt,rattitude mode,
+en,mdslfl,self level mode,
+en,mdslflv,self level mixing mode,
+en,mdwkslfl,weak self level mode,
+en,mdarco,arco mode,
+en,mdtaxi,taxi mode,
+en,mdpastru,pass thru mode,
+en,pastru,pass thru,
+Multirotor,,,
+en,mltrtr,multirotor,multikopteri
+en,quadc,quadcopter,nelikopteri
+en,tric,tricopter,trikopteri
+en,hexc,hexacopter,hexakopteri
+en,octc,octocopter,oktokopteri
+en,stblz,stabilize,vakauta
+en,stblzmd,stabilize mode,vakautusmoodi
+en,slflvl,self level mode,
+en,slflvlm,self level mixing mode,
+en,acro,acro,
+en,acromd,acro mode,
+en,rate,rate,
+en,ratemd,rate mode,
+en,angl,angle,
+en,anglmd,angle mode,
+en,hrzn,horizon,
+en,hrznmd,horizon mode,
+en,hybrd,hybrid,
+en,hybrdmd,hybrid mode,
+en,drft,drift,
+en,drftmd,drift mode,
+en,sprt,sport,
+en,sprtmd,sport mode,
+en,air,air,
+en,airmd,air mode,
+en,auto,auto,
+en,automd,auto mode,
+en,auttn,auto tune,
+en,auttnmd,auto tune mode,
+en,gtune,g-tune,
+en,gtunemd,g-tune mode,
+en,tuning,tuning,
+en,tuningmd,tuning mode,
+en,pid,P.I.D.,peeiidee
+en,pids,P.I.D.'s,pidit
+en,pid_p,P,P
+en,pid_pp,pproportional,proportionaalinen
+en,pid_i,I,I
+en,pid_ii,integral,integraali
+en,pid_d,D,D
+en,pid_dd,derivative,derivaatta
+en,roll,roll,rolli
+en,pitch,pitch,pitsi
+en,pitchrol,pitch and roll,pitsi ja rolli
+en,yaw,yaw,jaw
+en,blackbox,blackbox,musta laatikko
+en,blackbon,blackbox on,musta laatikko päällä
+en,blackbof,blackbox off,musta laatikko pois päältä
+en,blacklog,blackbox logging,mustan laatikon tiedonkeruu
+en,logging,logging,tiedonkeruu
+en,logon,logging on,tiedonkeruu päällä
+en,logoff,logging off,tiedonkeruu pois päältä
+FPV/Autonomous,,,
+en,fpv,FPV,fpv
+en,uav,UAV,uav
+en,fbwa,fly by wire a,
+en,fbwb,fly by wire b,
+en,crcl,circle,
+en,crclmd,circle mode,
+en,waypt,waypoint,reittipiste
+en,clmbmd,climbing mode,
+en,autort,auto rotation,
+en,althld,altitude hold,
+en,althldon,altitude hold on,
+en,althldof,altitude hold off,
+en,poshld,position hold,
+en,gps,gps,gps
+en,gpsmd,gps mode,gps moodi
+en,gpshld,gps hold,gps pito
+en,gpsphld,gps position hold,gps paikallaan pito
+en,phld,position hold,paikallaan pito
+en,gpsrth,gps return to home,gps kotiinpaluu
+en,rth,return to home,kotiinpaluu
+en,attmd,attitude mode,
+en,fpvf,from pilots view,
+en,gidd,guided,
+en,giddmd,guided mode,
+en,flwme,follow me,
+en,flwmemd,follow me mode,
+en,headfr,head free,
+en,headfrmd,head free mode,
+en,headadjd,heading adjusted,
+en,headadj,head adjust,
+en,led,l.e.d.,led
+en,ledon,l.e.d. on,led päällä
+en,ledoff,l.e.d. off,led sammutettu
+en,leds,l.e.d.'s,ledit
+en,ledson,l.e.d.'s on,ledit päällä
+en,ledsoff,l.e.d'.s off,ledit sammutettu
+en,osd,osd,
+en,osdon,osd on,
+en,osdoff,osd off,
+Common Mixes,,,
+en,rudcail,rudder coupled to ailerons,
+en,ail2rud,ailerons mixed with rudder,
+en,ele2flr,elevator mixed with flaperons,
+en,ele2flp,elevator mixed with flaps,
+en,knfedge,Knife Edge,
+en,knfedgm,Knife Edge Mix,
+en,flaprns,Flaperons,
+en,difthru,differential thrust,
+Conjunctions,,,
+en,mxdwth,... mixed with ...,
+en,cpldwth,... coupled with ...,
+en,mix,... mix,
+en,mixed,... mixed,
+en,mixing,... mixing,
+en,with,... with ..,
+en,in,... in ...,
+en,tuning,tuning ...,
+en,tuned,tuned ...,
+en,adjusted,adjusting ...,
+en,adjustng,adjusted ...,
+en,incring,increasing,
+en,incred,increased,
+en,decring,decreasing,
+en,decred,decreased,
